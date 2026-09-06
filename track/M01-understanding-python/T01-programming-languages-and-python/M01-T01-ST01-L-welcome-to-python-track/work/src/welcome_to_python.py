@@ -1,1 +1,5 @@
 print("Welcome to Python!")
+print("Welcome to Python!")
+print("Welcome to Python!3")
+print("Welcome to Python!2")
+print("Welcome to Python!1")
